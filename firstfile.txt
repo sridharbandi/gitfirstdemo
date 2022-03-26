@@ -2,3 +2,8 @@ This is some content
 git add . //add files to version control , staging
 git commit -m 'Initial COmmit' // Save the changes
 git log // Show the commit log
+git branch // Showes branches list
+git branch <name> // Creates the branch
+git checkout <name> // swithc to that branch
+git merge <branchname> // it will merge the another branch changes
+git status //  file change status
