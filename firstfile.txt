@@ -1,0 +1,2 @@
+This is some content
+git add . //add files to version control , staging
